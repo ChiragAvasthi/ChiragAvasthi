@@ -1,7 +1,7 @@
 <!-- Profile Typing Animation -->
 
 <h1 align="center">
-  <img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="50" style="display: inline-block; vertical-align: left;" alt="Gif Image" /><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=800&color=36BCF7&center=true&vCenter=true&width=600&lines=👋+Hi+there%2C+I'm+Chirag+from+India!;🌐+AI+%7C+IoT+%7C+Web+Development+Explorer;🚀+C+++%7C+Python+%7C+data+Science"/>
+  <img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="50" style="display: inline-block; vertical-align: left;" alt="Gif Image" /><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=800&color=36BCF7&center=true&vCenter=true&width=600&lines=👋+Hi+there%2C+I'm+Chirag+from+India!;🌐+AI+%7C+Data+%7C+Web+Development+Explorer;🚀+Data+%7C+Python+%7C+AI"/>
 </h1>
 
 <p align="center">
