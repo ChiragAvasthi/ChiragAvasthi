@@ -30,7 +30,7 @@
   <img align="right" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="320" alt="Computer Illustration" style="margin-left: 15px;"/>
   
 - 🏡 **From:** India   
-- 🎓 **Age:** 19  
+- 🎓 **Age:** 20  
 - 🧑‍🎓 **Profession:** Student  
 - 👨‍💻 **My Projects:** [Explore on GitHub](https://github.com/ChiragAvasthi?tab=repositories)  
 - 👨‍💻 Currently working on **Data Analytics Projects**  
@@ -164,28 +164,14 @@
 
 ---
 
-### GitHub Trophies
 
-<div align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=ChiragAvasthi&theme=radical&no-frame=true&margin-w=4" alt="Hoang Son's GitHub Trophies" />
-</div>
 
- <!--machine-learning-->
-```mermaid
-graph TD;
-    machine-learning-->Data;
-    machine-learning-->Algorithms;
-    machine-learning-->Statistical-Models;
-    machine-learning-->Feature-Engineering;
-    machine-learning-->Evaluation-Metrics;
-    machine-learning-->Deployment;
-   ```
----
+
 
 ### 📈 GitHub Stats
+<p align="center">
+ <img src="http://github-readme-streak-stats.herokuapp.com?u            ser=ChiragAvasthi&background=151515&currStreakNum=FFFFFF&border=FFFFFF&stroke=FFFFFF&ring=00AEDD&fire=00AEDD&sideNums=FFFFFF&currStreakLabel=00AEDD&sideLabels=FFFFFF&dates=FFFFFF" height="320" width="420"/> 
 
-| <img src="https://github-readme-stats.vercel.app/api?username=ChiragAvasthi&show_icons=true&title_color=00AEDDFF&text_color=FCFCFC&icon_color=00AEDDFF&bg_color=151515&border_color=FCFCFC&border_radius=8&include_all_commits=true&count_private=true" height="180" width="400" /> | <img src="http://github-readme-streak-stats.herokuapp.com?user=ChiragAvasthi&background=151515&currStreakNum=FFFFFF&border=FFFFFF&stroke=FFFFFF&ring=00AEDD&fire=00AEDD&sideNums=FFFFFF&currStreakLabel=00AEDD&sideLabels=FFFFFF&dates=FFFFFF" height="320" width="420"/> |
-|:--:|:--:|
 
     
     
@@ -201,12 +187,7 @@ graph TD;
 </p>
 
 
-## 🔥 Language Usage 
 
-| <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChiragAvasthi&theme=dark&hide_border=false&layout=compact" height="180" width="400"> | <img src="https://github-contributor-stats.vercel.app/api?username=ChiragAvasthi&limit=5&theme=dark&combine_all_yearly_contributions=true" height="180" width="400"> |
-|:--:|:--:|
-
----
 
 ## 🐍 Classic Old Snake ( Make by me with blobs, dont jugde me)  :
 
