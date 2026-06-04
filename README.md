@@ -1,7 +1,7 @@
 <!-- Profile Typing Animation -->
 
 <h1 align="center">
-  <img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="50" style="display: inline-block; vertical-align: left;" alt="Gif Image" /><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=800&color=36BCF7&center=true&vCenter=true&width=600&lines=👋+Hi+there%2C+I'm+Chirag+from+India!;🌐+AI+%7C+Data+%7C+Web+Development+Explorer;🚀+Data+%7C+Python+%7C+AI"/>
+  <img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="50" style="display: inline-block; vertical-align: middle;" alt="Gif Image" /><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=800&color=36BCF7&center=true&vCenter=true&width=600&lines=👋+Hi+there%2C+I'm+Chirag+from+India!;🌐+AI+%7C+Data+%7C+Web+Development+Explorer;🚀+Data+%7C+Python+%7C+AI"/>
 </h1>
 
 <p align="center">
@@ -38,10 +38,8 @@
 - 🤖 Building mini projects with **AI, ML, and DL**  
 - 🤝 Open to collaborating on **Data Projects** & **AI Projects**  
 - 📫 Reach me at: `chiragavasthi24@gmail.com`  
-- 📄 [View My Resume]([https://drive.google.com/file/d/1TLr0D6XbGXA33Mpnom_mwZoN42PZDhnR/view?usp=drive_lin](https://drive.google.com/file/d/1UJ1aPS_qMU_chbBVCIH_nN6MuE4ix67y/view?usp=drive_link)  
+- 📄 [View My Resume](https://drive.google.com/file/d/1UJ1aPS_qMU_chbBVCIH_nN6MuE4ix67y/view?usp=drive_link)  
 - ⚡ **Fun Fact:** _“Eat 🍜, Code 💻, Repeat 🔁”_
-
-</div>
 
 ---
 
@@ -164,48 +162,38 @@
 
 ---
 
-
-
-
-
 ### 📈 GitHub Stats
+
 <p align="center">
- <img src="http://github-readme-streak-stats.herokuapp.com?u            ser=ChiragAvasthi&background=151515&currStreakNum=FFFFFF&border=FFFFFF&stroke=FFFFFF&ring=00AEDD&fire=00AEDD&sideNums=FFFFFF&currStreakLabel=00AEDD&sideLabels=FFFFFF&dates=FFFFFF" height="320" width="420"/> 
-
-
-    
-    
+  <img src="https://streak-stats.demolab.com/?user=ChiragAvasthi&background=151515&currStreakNum=FFFFFF&border=FFFFFF&stroke=FFFFFF&ring=00AEDD&fire=00AEDD&sideNums=FFFFFF&currStreakLabel=00AEDD&sideLabels=FFFFFF&dates=FFFFFF" height="320" width="420" alt="GitHub Streak" /> 
 </p>
  
-
 ---
+
+
 
 ### 📊 Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ChiragAvasthi&theme=react-dark&area=true&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ChiragAvasthi&theme=react-dark&area=true&hide_border=true&bg_color=151515" alt="Activity Graph" />
 </p>
 
-
-
-
-## 🐍 Classic Old Snake ( Make by me with blobs, dont jugde me)  :
+## 🐍 Classic Old Snake (Made by me with blobs, don't judge me) :
 
 <br>
 
-![snake gif](https://github.com/ChiragAvasthi/ChiragAvasthi/blob/output/github-snake-dark.svg) 
+![snake gif](https://github.com/ChiragAvasthi/ChiragAvasthi/blob/output/github-snake-dark.svg?raw=true) 
 
 <br>
 
-![snake gif](https://github.com/ChiragAvasthi/ChiragAvasthi/blob/output/github-snake.svg) 
+![snake gif](https://github.com/ChiragAvasthi/ChiragAvasthi/blob/output/github-snake.svg?raw=true) 
 
 <br>
 
-
-  <img align = "right" height="180" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcm56bXFzb2JlcGlrYnVrNTRiOWluNm5kZDJpMndxcHRuMDUya3NxeSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/78XCFBGOlS6keY1Bil/giphy.gif"  />
-
+  <img align="right" height="180" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcm56bXFzb2JlcGlrYnVrNTRiOWluNm5kZDJpMndxcHRuMDUya3NxeSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/78XCFBGOlS6keY1Bil/giphy.gif"  />
 
 ---
+
 ### 🌐 Let's Connect
 
 [![Github](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/ChiragAvasthi) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
