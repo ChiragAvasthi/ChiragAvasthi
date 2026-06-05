@@ -178,17 +178,13 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ChiragAvasthi&theme=react-dark&area=true&hide_border=true&bg_color=151515" alt="Activity Graph" />
 </p>
 
-## 🐍 Classic Old Snake (Made by me with blobs, don't judge me) :
+### Snake Game Repo View
 
-<br>
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
 
-![snake gif](https://github.com/ChiragAvasthi/ChiragAvasthi/blob/output/github-snake-dark.svg?raw=true) 
-
-<br>
-
-![snake gif](https://github.com/ChiragAvasthi/ChiragAvasthi/blob/output/github-snake.svg?raw=true) 
-
-<br>
+---
 
   <img align="right" height="180" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcm56bXFzb2JlcGlrYnVrNTRiOWluNm5kZDJpMndxcHRuMDUya3NxeSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/78XCFBGOlS6keY1Bil/giphy.gif"  />
 
