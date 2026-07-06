@@ -37,8 +37,9 @@
 - 🌱 Exploring **Python**, **Flask**, and **ML Libraries** in Python  
 - 🤖 Building mini projects with **AI, ML, and DL**  
 - 🤝 Open to collaborating on **Data Projects** & **AI Projects**  
-- 📫 Reach me at: `chiragavasthi24@gmail.com`  
-- 📄 [View My Resume](https://drive.google.com/file/d/1UJ1aPS_qMU_chbBVCIH_nN6MuE4ix67y/view?usp=drive_link)  
+- 📫 Reach me at: `chiragavasthi24@gmail.com`
+- 🌐 [Website](https://chirag-avasthi.vercel.app/)
+- 📄 [View My Resume](https://drive.google.com/file/d/1Y7b4_JgIDqRQuYrjiryI8cBPaHMqAqIq/view?usp=sharing)  
 - ⚡ **Fun Fact:** _“Eat 🍜, Code 💻, Repeat 🔁”_
 
 ---
